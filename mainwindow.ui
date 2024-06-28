@@ -67,13 +67,26 @@
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>../images/c1.png</normaloff>../images/c1.png</iconset>
+      <normaloff>images/c1.png</normaloff>images/c1.png</iconset>
     </property>
     <property name="iconSize">
      <size>
       <width>250</width>
       <height>250</height>
      </size>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_Coin">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>100</y>
+      <width>251</width>
+      <height>251</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
     </property>
    </widget>
   </widget>
