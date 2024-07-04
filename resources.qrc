@@ -4,5 +4,8 @@
         <file>images/c2.png</file>
         <file>images/c3.png</file>
         <file>images/с4.gif</file>
+        <file>images/фон.jpeg</file>
+        <file>images/загрузка.png</file>
+       <file>images/мелодия.mp3</file>
     </qresource>
 </RCC>

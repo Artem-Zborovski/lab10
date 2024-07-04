@@ -1,5 +1,6 @@
 QT       += core gui
-
+QT      += multimedia
+QT       += multimediawidgets
 RESOURCES += resources.qrc
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
